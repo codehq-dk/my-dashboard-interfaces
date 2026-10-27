@@ -1,0 +1,17 @@
+{
+    "name": "codehq-dk/my-dashboard-interfaces",
+    "description": "Mydashboard interface package to be used when building a new widget",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CodehqDk\\MyDashboard\\Interfaces\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesper Østergaard Jensen"
+        }
+    ],
+    "require": {}
+}
